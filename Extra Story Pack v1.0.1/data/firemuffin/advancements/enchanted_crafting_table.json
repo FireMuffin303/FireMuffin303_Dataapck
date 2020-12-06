@@ -1,0 +1,14 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "criteria": {
+        "enchanted crafting table": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "firemuffin:enchanted_crafting_table"
+            }
+        }
+    },
+    "rewards": {
+        "function": "firemuffin:firemuffin_table/craft_enchanted_crafting_table"
+    }
+}
