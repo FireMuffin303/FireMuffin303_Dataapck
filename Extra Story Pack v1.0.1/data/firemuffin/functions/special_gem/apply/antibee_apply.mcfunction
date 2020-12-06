@@ -1,0 +1,1 @@
+data modify entity @e[type=minecraft:bee,sort=nearest,limit=1] Anger set value 0b

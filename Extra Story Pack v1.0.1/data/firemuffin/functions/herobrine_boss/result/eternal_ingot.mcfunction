@@ -1,0 +1,3 @@
+data merge block ~ ~ ~ {Items: [{Slot: 4b, id: "minecraft:iron_ingot", Count: 1b, tag: {CustomModelData: 1202, HideFlags: 1, Enchantments: [{lvl: 1s, id: "mending"}], display: {Lore: ['[{"text":"Meterial","color":"gold","italic":false,"bold":true}]', '[{"text":"Datapack Item","color":"green","italic":false}]'], Name: '[{"text":"Eternal Ingot","color":"aqua","italic":false}]'}}}]}
+playsound minecraft:block.enchantment_table.use player @a[distance=..10] ~ ~ ~ 1 1
+particle minecraft:soul_fire_flame ~ ~ ~ 0 0 0 0.1 100 force

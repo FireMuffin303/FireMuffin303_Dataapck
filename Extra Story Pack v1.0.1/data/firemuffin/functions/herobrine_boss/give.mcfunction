@@ -1,0 +1,1 @@
+give @s minecraft:iron_ingot{HerobrineSummon: 1b, CustomModelData: 666, display: {Lore: ['[{"text":"Summon Herobrine","color":"gray","italic":false}]', '[{"text":"Boss summon","color":"gold","italic":false,"bold":true}]', '[{"text":"Datapack Item","color":"green","italic":false}]'], Name: '[{"text":"Villager Voodoo","color":"aqua","italic":false}]'}}

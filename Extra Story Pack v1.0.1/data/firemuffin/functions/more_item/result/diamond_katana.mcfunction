@@ -1,0 +1,3 @@
+data merge block ~ ~ ~ {Items: [{Slot: 4b, id: "minecraft:diamond_sword", Count: 1b, tag: {CustomModelData: 1001, Damage: 0, display: {Name: '[{"text":"Diamond Katana","color":"white","italic":false}]',Lore:['{"text":"Weapon","color":"gold","italic":false,"bold":true}','{"text":"Datapack Item","color":"green","italic":false}']}}}]}
+playsound minecraft:block.anvil.use player @a[distance=..10] ~ ~ ~ 1 1
+particle minecraft:smoke ~ ~ ~ 0 0 0 0.1 100 force

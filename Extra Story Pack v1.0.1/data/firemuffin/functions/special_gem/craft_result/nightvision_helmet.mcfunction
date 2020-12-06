@@ -1,0 +1,3 @@
+data merge block ~ ~ ~ {Items: [{Slot: 4b, id: "minecraft:leather_helmet", Count: 1b, tag: {Damage: 0, Night_helmet: 1b, display: {Lore: ['[{"text":"Night Vision","color":"gray","italic":false}]', '[{"text":"Specialist Helmet","color":"red","italic":false,"bold":true}]', '[{"text":"Datapack Item","color":"green","italic":false}]'], color: 13986246, Name: '[{"text":"Night Helmet","color":"aqua","italic":false}]'}}}]}
+playsound minecraft:block.anvil.use player @a[distance=..10] ~ ~ ~ 1 1
+particle minecraft:smoke ~ ~ ~ 0 0 0 0.1 100 force

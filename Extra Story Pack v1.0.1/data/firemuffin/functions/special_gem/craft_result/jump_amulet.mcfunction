@@ -1,0 +1,3 @@
+data merge block ~ ~ ~ {Items:[{Slot: 4b, id: "minecraft:iron_ingot", Count: 1b, tag: {CustomModelData: 1005, HideFlags: 1, JumpGem: 1b, Enchantments: [{lvl: 1, id: "mending"}], display: {Lore: ['{"text":"Jump Boost II","color":"gray","italic":"false"}', '{"text":"Magical Amulet","color":"red","italic":"false","bold":"true"}', '{"text":"Datapack Item","color":"green","italic":"false"}'], Name: '{"text":"Jump Amulet","italic":"false","color":"aqua"}'}}}]}
+playsound minecraft:block.anvil.use player @a[distance=..10] ~ ~ ~ 1 1
+particle minecraft:smoke ~ ~ ~ 0 0 0 0.1 100 force
